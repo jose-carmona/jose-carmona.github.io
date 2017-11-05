@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre jose-carmona
 permalink: /about/
 ---
 
-Some information about you!
+### Sobre el blog
 
-### More Information
+### Sobre mi
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Twitter [@jose_carmona](https://twitter.com/jose_carmona)
