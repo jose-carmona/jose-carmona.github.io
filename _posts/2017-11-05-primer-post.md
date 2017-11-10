@@ -21,7 +21,7 @@ Como editor uso [Atom](https://atom.io) que es flexible y potente, aunque a vece
 
 Sin embargo, no tiene demasiado sentido tener que hacer commit en master del repositorio para ver el resultado final ya en producción, en vivo y en directo. Aquí es donde [Docker](https://www.docker.com) vuelve a convertirse en un aliado perfecto. Basándome en éste [post de @kristofclaes](https://kristofclaes.github.io/2016/06/19/running-jekyll-locally-with-docker/) he creado el correspondiente fichero `docker-compose.yml` que me permite usar Jekyll sobre docker en mi Mac. Es suficiente con abrir un terminal y ...:
 
-```sh
+``` bash
 cd <directorio-del-repositorio>
 docker-compose up
 ```

@@ -40,9 +40,9 @@ class MiClase {
 }
 ```
 
-Y esto es todo. Sencillo, ¿no?
+Sencillo, ¿no?
 
-Para aprender más:
+¿No te ha convencido mi explicación? A ver que te parecen estos enlaces:
 
 * [Drupal Documentation - Services and dependency injection in Drupal 8](https://www.drupal.org/node/2133171)
 * [Drupal API - Services and Dependency Injection Container](https://api.drupal.org/api/drupal/core%21core.api.php/group/container/8.4.x)

@@ -11,9 +11,20 @@ Aquí tienes mi blog técnico. Me permite compartir con el mundo información y 
 
 No esperes publicaciones todos los días. Recuerda que este es un blog egoísta sin más pretensiones.
 
+### Temas
+
+Variados, pero sobre todo:
+* Drupal, php.
+* Docker.
+* Oracle, SQL, PL/SQL.
+* Mac, Linux.
+* Scrum, Agil.
+
 ### Sobre mi
 
-Este soy yo: ![jose-carmona logo](https://raw.githubusercontent.com/jose-carmona/jose-carmona.github.io/master/images/jose-carmona.png "jose-carmona logo")
+Este soy yo:
+
+![jose-carmona logo](https://raw.githubusercontent.com/jose-carmona/jose-carmona.github.io/master/images/jose-carmona.png "jose-carmona logo")
 
 El dibujo es del gran [@oneeyedman](https://twitter.com/oneeyedman)
 
