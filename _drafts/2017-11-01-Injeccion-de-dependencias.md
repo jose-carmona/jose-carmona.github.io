@@ -16,9 +16,9 @@ Usando este patrón conseguirás que tu código esté desacoplado y sea, por tan
 
 ### Drupal e Inyección de Dependencias
 
-En Drupal, la inyección de Dependencias es el método recomendado para acceder y consumir servicios. Cuando declaras un servicio, en el correspondiente fichero YAML también puedes especificar aquellos servicios de los que depende con la etiqueta "arguments". El contenedor se encarga de instancias esos servicios de los que depende y pasarlos como parámetros al constructor.
+En Drupal, la inyección de Dependencias es el método recomendado para acceder y consumir servicios. Cuando declaras un servicio, en el correspondiente fichero YAML también puedes especificar aquellos servicios de los que depende con la etiqueta "arguments". El contenedor se encarga de instanciar esos servicios de los que depende y pasarlos como parámetros al constructor de la clase.
 
-Bien, para servicios está claro. Pero, ¿qué pasa cuando Drupal instancia por ti un objeto y no hay configuración para especificar las dependencias? Hay una convención en la comunidad Drupal para usar un método factory llamado "create". Entonces, es suficiente con crear un método estático que recibirá el contenedor de inyección de dependencias como primer parámetro. La idea es extraer del contenedor los servicios y, a continuación, llamar al constructor. Algo así:
+Bien, para servicios está claro. Pero, ¿qué pasa cuando Drupal instancia por ti un objeto y no hay configuración para especificar la Inyección de dependencias? Hay una convención en la comunidad Drupal para usar un método factory llamado "create". Entonces, es suficiente con incluir en la clase un método estático que recibirá el contenedor de inyección de dependencias como primer parámetro. La idea es extraer del contenedor los servicios y, a continuación, llamar al constructor. Algo así:
 
 ``` php
 class MiClase {
@@ -40,7 +40,7 @@ class MiClase {
 }
 ```
 
-¿Lo he entendido bien?
+Y esto es todo. Sencillo, ¿no?
 
 Para aprender más:
 
