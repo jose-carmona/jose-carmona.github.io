@@ -18,4 +18,4 @@ Por otro lado, la cantidad ingente de información, el Big Data, impone nuevas m
 
 La respuesta está en un híbrido entre humanos y máquinas. A medida que los humanos mejoramos los algoritmos neuronales de las máquinas, las máquinas ayudarán a los humanos a ver lo que buscamos y así comprender el problema, hacer las preguntas correctas y encontrar las respuestas.
 
-_*Nota:*_ Este post fue publicado inicialmente en el blog de [Aurora Project](https://auroraprj.wordpress.com/2018/05/13/informacion-oculta-e-inteligencia-artificial/), proyecto en el que colaboro.
+*Nota: Este post fue publicado inicialmente en el blog de [Aurora Project](https://auroraprj.wordpress.com/2018/05/13/informacion-oculta-e-inteligencia-artificial/), proyecto en el que colaboro.*
