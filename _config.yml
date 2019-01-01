@@ -9,7 +9,7 @@ name: jose-carmona
 description: Explorando este lado del universo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/jose-carmona/jose-carmona.github.io/master/images/jose-carmona.png
+avatar: https://avatars3.githubusercontent.com/u/2102206?s=460&v=4
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: jose-carmona
   instagram:
-  linkedin:
+  linkedin: josé-carmona-navas-a8352817
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jose_carmona
@@ -73,10 +73,10 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jemoji
 # Exclude these files from your production _site
 exclude:
   - Gemfile

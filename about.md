@@ -17,16 +17,9 @@ Variados, pero sobre todo:
 * Drupal, php.
 * Docker.
 * Oracle, SQL, PL/SQL.
+* Java, JEE.
 * Mac, Linux.
-* Scrum, Agil.
-
-### Sobre mi
-
-Este soy yo:
-
-![jose-carmona logo](https://raw.githubusercontent.com/jose-carmona/jose-carmona.github.io/master/images/jose-carmona.png "jose-carmona logo")
-
-El dibujo es del gran [@oneeyedman](https://twitter.com/oneeyedman)
+* Scrum, Agile.
 
 ### Contacto
 
