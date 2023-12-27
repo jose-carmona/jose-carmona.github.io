@@ -1,5 +1,15 @@
-## Blog técnico personal
+Minimalist personal blog.
 
-https://jose-carmona.github.io
+URL: https://jose-carmona.github.io
 
-La estructura del blog es un fork de [jekyll-now](https://github.com/barryclark/jekyll-now)
+## Tools
+
+* [Jekyll](https://jekyllrb.com)
+* [Docker](https://www.docker.com)
+* [Tailwind CSS](https://tailwindcss.com)
+
+To run it locally:
+
+```
+docker compose up
+```

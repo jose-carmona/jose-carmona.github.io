@@ -1,0 +1,88 @@
+<script src="https://cdn.tailwindcss.com"></script>
+<style type="text/tailwindcss">
+    @layer base {
+        h1 {
+            @apply 
+                font-semibold
+                tracking-tight
+                pt-6
+                text-zinc-800
+                text-2xl;
+        }
+        h2 {
+            @apply 
+                font-semibold
+                tracking-tight
+                pt-2
+                text-zinc-800
+                text-xl;
+        }
+        h3 {
+            @apply 
+                font-semibold
+                tracking-tight
+                text-zinc-800;
+        }
+        h4 {
+            @apply 
+                font-medium
+                tracking-tight
+                text-zinc-800;
+        }
+        p {
+            @apply
+                p-1;
+        }
+        ul {
+            @apply
+                px-10;
+        }
+        li {
+            @apply
+                list-disc
+                p-1;
+        }
+        img, svg {
+            @apply inline;
+        }
+        blockquote {
+            @apply
+                p-4 
+                my-4 
+                bg-zinc-100
+                italic 
+                border-l-4 
+                border-zinc-300;
+        }
+        ol>li {
+            @apply    
+                list-inside
+                list-decimal;
+        }
+        a {
+            @apply
+                text-zinc-800
+                hover:underline;
+;
+        }
+        .highlight {
+            @apply
+                p-2
+                my-2
+                bg-zinc-100;  
+        }
+        table {
+            @apply
+                m-auto
+                w-11/12;
+        }
+        thead {
+            @apply
+                bg-zinc-200;
+        }
+        tr {
+            @apply
+                border-b;
+        }
+    }
+</style>
